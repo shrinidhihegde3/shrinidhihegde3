@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shrinidhi Hegde</h1>
-<h3 align="center">I am Aspiring Web Developer</h3>
+<h3 align="center">I am Aspiring to be a Web Developer</h3>
 
 - 🌱 I’m currently learning **nodejs**
 
